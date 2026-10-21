@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AfinApp.ApiService/AfinApp.ApiService.csproj" />
+  <Project Path="AfinApp.AppHost/AfinApp.AppHost.csproj" />
+  <Project Path="AfinApp.Data/AfinApp.Data.csproj" />
+  <Project Path="AfinApp.ServiceDefaults/AfinApp.ServiceDefaults.csproj" />
+  <Project Path="AfinApp.Worker/AfinApp.Worker.csproj" />
+</Solution>

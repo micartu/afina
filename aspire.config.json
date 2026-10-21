@@ -1,0 +1,5 @@
+{
+  "appHost": {
+    "path": "AfinApp.AppHost/AfinApp.AppHost.csproj"
+  }
+}
